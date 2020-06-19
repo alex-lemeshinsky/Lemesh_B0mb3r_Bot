@@ -28,6 +28,7 @@ share/python-wheels/
 MANIFEST
 config.py
 app.yaml
+.gcloudignore
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
